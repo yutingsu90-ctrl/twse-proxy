@@ -1,7 +1,6 @@
 {
   "name": "twse-proxy",
   "version": "1.0.0",
-  "description": "台灣證交所 API 代理伺服器",
   "private": true,
   "engines": {
     "node": ">=20"
